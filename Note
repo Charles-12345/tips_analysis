@@ -1,0 +1,4 @@
+# Narrative Summary
+Looking at the regression coefficients, total bill size clearly drives the tip prediction more than anything else
+which makes sense, since people usually tip based on a percentage of what they've spent. Factors like party size,
+whether the customer smokes, the day of the week, and time of meal do play a role, but their effect is much smaller by

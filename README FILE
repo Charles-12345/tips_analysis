@@ -1,0 +1,21 @@
+# Tips Regression Analysis
+
+## Requirements
+
+Python 3.10+
+
+Install packages
+
+pip install -r requirements.txt
+
+## Run
+
+python analysis.py
+
+The script will
+
+- Load the dataset
+- Inspect the data
+- Train a Linear Regression model
+- Report RMSE and R²
+- Generate visualization.png
